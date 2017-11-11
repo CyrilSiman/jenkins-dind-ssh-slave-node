@@ -10,7 +10,7 @@ ENV NODE_VERSION 8.9.1
 
 # Node
 RUN addgroup -g ${gid} ${group} \
-    && adduser -u ${uid} -G {group) -s /bin/sh -D {node} \
+    && adduser -u ${uid} -G ${group} -s /bin/sh -D ${user} \
     && apk add --no-cache \
         libstdc++ \
     && apk add --no-cache --virtual .build-deps \
