@@ -2,5 +2,9 @@
 
 This image extend  [wedroid/jenkins-dind-ssh-slave](https://hub.docker.com/r/wedroid/jenkins-dind-ssh-slave/) with *Node v8.9.1* inside.
 
+### Where is Node ?
+
+Node bin is available in **/usr/local/bin**
+
 
 
