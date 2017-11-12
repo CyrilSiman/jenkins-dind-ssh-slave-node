@@ -6,7 +6,7 @@ ARG group=node
 ARG uid=1001
 ARG gid=1001
 
-ENV NODE_VERSION 8.9.1
+ENV NODE_VERSION 9.1.0
 
 # Node
 RUN addgroup -g ${gid} ${group} \

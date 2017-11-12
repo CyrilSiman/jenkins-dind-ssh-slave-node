@@ -1,6 +1,6 @@
 # Node DinD Jenkins slave
 
-This image extend  [wedroid/jenkins-dind-ssh-slave](https://hub.docker.com/r/wedroid/jenkins-dind-ssh-slave/) with *Node v8.9.1* inside.
+This image extend  [wedroid/jenkins-dind-ssh-slave](https://hub.docker.com/r/wedroid/jenkins-dind-ssh-slave/) with *Node v9.1.0* inside.
 
 ### Where is Node ?
 
