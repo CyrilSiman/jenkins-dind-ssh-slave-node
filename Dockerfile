@@ -1,4 +1,4 @@
-from wedroid/jenkins-dind-ssh-slave:1.1
+from wedroid/jenkins-dind-ssh-slave:1.3
 LABEL MAINTAINER="Cyril Siman <csiman.phone@gmail.com>"
 
 ARG user=node
